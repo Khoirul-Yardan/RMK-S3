@@ -2,7 +2,7 @@
 **Oleh:** [Khoirul Yardan Mauluddin Zhorif]
 ## Daftar Isi
 - [Basis Data Lanjut](#basis-data-lanjut)
-- []
+- [Konsep Jaringan](#konsep-jaringan-komputer)
 
 
 
